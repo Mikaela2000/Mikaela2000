@@ -1,16 +1,25 @@
-### Hi there 👋
+# HOLA, SOY MIKAELA MONROY
 
-<!--
-**Mikaela2000/Mikaela2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Desarrolladora Full Stack
 
-Here are some ideas to get you started:
+🌱 Estoy realizando nuevos proyectos para afianzar mis conocimientos como una red social de ayuda al medio ambiente
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+☎️ Cómo contactarme mikaelamonroy9@gmail.com
+
+📄 Conozca un poco más de mi experiencia https://github.com/Mikaela2000
+
+Languages and Tools:
+
+HTML5: 📝
+CSS3: 🎨
+JavaScript: 💻
+Express: 🚀
+Figma: 🎨
+Git: 🗄️
+Java: ☕
+Node.js: 🟢
+React: ⚛️
+Redux: 🔄
+Bootstrap: 🅱️
+MySQL: 🐬
+PostgreSQL: 🐘
